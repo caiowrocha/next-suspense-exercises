@@ -2,7 +2,7 @@ import React from 'react';
 
 import { getGamesInLibrary } from '@/helpers/vapor-helpers';
 import LibraryGameCard from '@/components/LibraryGameCard';
-import ArticleWrapper from './components/ArticleWrapper';
+import ArticleWrapper from './_components/ArticleWrapper';
 
 export const dynamic = 'force-dynamic';
 

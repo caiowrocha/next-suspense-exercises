@@ -3,7 +3,7 @@ import React from 'react';
 import { range } from '@/utils';
 import LibraryGameCardSkeleton from '@/components/LibraryGameCardSkeleton';
 
-import ArticleWrapper from './components/ArticleWrapper';
+import ArticleWrapper from './_components/ArticleWrapper';
 
 async function VaporLoading() {
   return (
